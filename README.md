@@ -1,2 +1,2 @@
 # other-respository
-# my-respository
+other-respository
